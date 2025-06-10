@@ -1,0 +1,45 @@
+Chart Requirements
+
+1. Total Sales by Fat Content:
+
+.Objective: Analyze the impact of fat content on total sales
+
+.Chart Type: Donut Chart
+
+KPIs: Total Sales, Average Sales, Number of Items, Average Rating
+
+2. Total Sales by Item Type
+Objective: Identify the performance of different item types in terms of total sales
+
+Chart Type: Bar Chart
+
+KPIs: Total Sales, Average Sales, Number of Items, Average Rating
+
+3. Fat Content by Outlet for Total Sales
+Objective: Compare total sales across different outlets segmented by fat content
+
+Chart Type: Stacked Column Chart
+
+KPIs: Total Sales, Average Sales, Number of Items, Average Rating
+
+4. Total Sales by Outlet Establishment
+Objective: Evaluate how the age or type of outlet establishment influences total sales
+
+Chart Type: Line Chart
+
+5. Sales by Outlet Size
+Objective: Analyze the correlation between outlet size and total sales
+
+Chart Type: Pie Chart
+
+6. Sales by Outlet Location
+Objective: Assess the geographic distribution of sales across different locations
+
+Chart Type: Funnel Map
+
+7. All Metrics by Outlet Type
+Objective: Provide a comprehensive view of all key metrics broken down by outlet types
+
+Chart Type: Matrix Card
+
+KPIs: Total Sales, Average Sales, Number of Items, Average Rating
